@@ -4,9 +4,9 @@
 ## Tabela de Conteúdo  
 
 1. [Introdução](#Introdução)
-2. [Como Usar](#Como usar)
-3. [Script](#Script)
-4. [Questões em Linguagem SQL - PostgresSQL](#rocket)
+2. [Como Usar](#construction_worker-como-usar)
+3. [Script](#computer-script)
+4. [Perguntas em SQL](#rocket-perguntas-em-sql)
 5. [Licença](#closed_book-license)
 
 
@@ -194,7 +194,7 @@ insert into job_history (employee_id, start_date, end_date, job_id, department_i
 (176, '1999-01-01', '1999-12-31', 'SA_MAN', 80),
 (200, '1994-07-01', '1998-12-31', 'AC_ACCOUNT', 90);
 ```
-## :rocket: Questões em Linguagem SQL - PostgresSQL
+## :rocket: Perguntas em SQL
 
 #### Grupo - I. Usando	a	Base	de	Dados	criada.	Responda	as	seguintes questões	em	Linguagem	SQL básico
 
@@ -206,28 +206,28 @@ insert into job_history (employee_id, start_date, end_date, job_id, department_i
   F. Mostre	todos	os	funcionários	e	indique	com	"Sim"	ou	"Não"	se	eles	recebem	uma	comissão.
 
 #### Grupo - II. Usando	a	Base	de	Dados	criada	em	I.	Responda	as	seguintes	questões	em	Linguagem	SQL	com	funções,	junções	e	funções	de	grupo.
-  A. Mostre	os	nomes	dos	departamentos,	locais,	nomes,	cargos	e	salários	dos	funcionários	que	trabalham	no	local	1800.	
-  B. Quantos	 funcionários	 têm	 um	 nome	 que	 termina	 com	 um	 "n"?	 Crie	 duas	soluções	possíveis.
-  C. Mostre	 os	 nomes	 e	 locais	 de	 todos	 os	 departamentos	 e	 o	 número	 de	 funcionários	 que	 trabalham	 em	 cada	 departamento.	 
+  1. Mostre	os	nomes	dos	departamentos,	locais,	nomes,	cargos	e	salários	dos	funcionários	que	trabalham	no	local	1800.	
+  2. Quantos	 funcionários	 têm	 um	 nome	 que	 termina	 com	 um	 "n"?	 Crie	 duas	soluções	possíveis.
+  3. Mostre	 os	 nomes	 e	 locais	 de	 todos	 os	 departamentos	 e	 o	 número	 de	 funcionários	 que	 trabalham	 em	 cada	 departamento.	 
 Certifique-se	 de	 que os departamentos	sem	funcionários	também	estejam	incluídos.
-  D. Que trabalhos	são	encontrados	nos	departamentos	10	e	20?	
-  E. Que trabalhos	 são	 encontrados	 nos	 departamentos	 de	 Administração	e	Executivo	 e quantos	 funcionários	 executam	 esses	 trabalhos?	Mostrar	 
+  1. Que trabalhos	são	encontrados	nos	departamentos	10	e	20?	
+  2. Que trabalhos	 são	 encontrados	 nos	 departamentos	 de	 Administração	e	Executivo	 e quantos	 funcionários	 executam	 esses	 trabalhos?	Mostrar	 
 o	 trabalho	com	a	maior	frequência	primeiro.
-  F. Mostrar	 todos	os	 funcionários	que	 foram	contratados	na	primeira	metade	do	mês	(antes	do	dia	16	do	mês).	
-  G. Mostre	os	nomes,	salários	e	o	número	de	dólares	(em	milhares)	que	todos	os funcionários	ganham.
-  H. Mostre	todos	os	 funcionários	que	têm	gerentes	com	um	salário	superior	a	US	$	15.000.	Mostre	os	seguintes	dados:	nome	do	funcionário,	nome	do	gerente,	
+  3. Mostrar	 todos	os	 funcionários	que	 foram	contratados	na	primeira	metade	do	mês	(antes	do	dia	16	do	mês).	
+  4. Mostre	os	nomes,	salários	e	o	número	de	dólares	(em	milhares)	que	todos	os funcionários	ganham.
+  5. Mostre	todos	os	 funcionários	que	têm	gerentes	com	um	salário	superior	a	US	$	15.000.	Mostre	os	seguintes	dados:	nome	do	funcionário,	nome	do	gerente,	
 salário	do	gerente	e	grau	salarial	do	gerente.
-  I. Mostre	 o	 número	 do	 departamento,	 nome,	 número	 de	 funcionários	 e	salário	médio	de	 todos	os	departamentos,	juntamente	com	os	nomes,	 salários	 e	
+  6. Mostre	 o	 número	 do	 departamento,	 nome,	 número	 de	 funcionários	 e	salário	médio	de	 todos	os	departamentos,	juntamente	com	os	nomes,	 salários	 e	
 empregos	dos	funcionários	que	trabalham	em	cada	departamento.	
-  J. Mostre	o	número	do	departamento	e	o	salário	mais	baixo	do	departamento	com	o	maior	salário	médio.	
-  K. Mostre	 os	 números	 de	 departamento,	 nomes	 e	 localizações	 dos	departamentos	onde	nenhum	representante	de	vendas	trabalha.
-  L. Mostre	o	número	do	departamento,	o	nome	do	departamento	e	o	número	de	funcionários	que	trabalham em	cada	departamento	que:
-    - 1. Inclua	menos	de	3	funcionários.
-    - 2. Tenha	o	maior	número	de	funcionários.
-    - 3. Tenha	o	menor	número	de	funcionários.
-  M. Mostre	 o	 número	 do	 funcionário,	 sobrenome,	 salário,	 número	 do	 departamento	e	o	salário	médio	em	seu	departamento	para	todos	os	funcionários.
-  N. Mostrar	todos	os	funcionários	que	foram	contratados	no	dia	da	semana	em	que	o	maior	número	de	funcionários	foi	contratado.	
-  O. Crie	 uma	visão	geral	 do	aniversário	 com	 base	 na	 data	 de	 contratação	 dos	funcionários.	Classifique	os	aniversários	em	ordem	crescente.
+  7. Mostre	o	número	do	departamento	e	o	salário	mais	baixo	do	departamento	com	o	maior	salário	médio.	
+  8. Mostre	 os	 números	 de	 departamento,	 nomes	 e	 localizações	 dos	departamentos	onde	nenhum	representante	de	vendas	trabalha.
+  9. Mostre	o	número	do	departamento,	o	nome	do	departamento	e	o	número	de	funcionários	que	trabalham em	cada	departamento	que:
+    1. Inclua	menos	de	3	funcionários.
+    2. Tenha	o	maior	número	de	funcionários.
+    3. Tenha	o	menor	número	de	funcionários.
+  10. Mostre	 o	 número	 do	 funcionário,	 sobrenome,	 salário,	 número	 do	 departamento	e	o	salário	médio	em	seu	departamento	para	todos	os	funcionários.
+  11. Mostrar	todos	os	funcionários	que	foram	contratados	no	dia	da	semana	em	que	o	maior	número	de	funcionários	foi	contratado.	
+  12. Crie	 uma	visão	geral	 do	aniversário	 com	 base	 na	 data	 de	 contratação	 dos	funcionários.	Classifique	os	aniversários	em	ordem	crescente.
   
  ## :closed_book: Licença
   
