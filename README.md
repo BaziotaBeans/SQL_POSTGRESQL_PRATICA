@@ -21,9 +21,9 @@ Uma dica para aprender sql [Clique Aqui](https://www.w3schools.com/sql/default.a
 
 O repositório traz Um slide onde foi retirado todo o script e um ficheiro sql que contem o script com as construções de todas as tabelas já
 relacionadas, para usar ela basta:
-- 1. Cria um Banco de dados, com qualquer nome
-- 2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
-- 3. Pronto agora já pode seguir as questões e criar as tuas consultas...
+    1. Cria um Banco de dados, com qualquer nome
+    2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
+    3. Pronto agora já pode seguir as questões e criar as tuas consultas...
 
 ## :computer: Script
 
