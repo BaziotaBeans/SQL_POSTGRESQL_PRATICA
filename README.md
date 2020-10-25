@@ -222,9 +222,9 @@ empregos	dos	funcionários	que	trabalham	em	cada	departamento.
   7. Mostre	o	número	do	departamento	e	o	salário	mais	baixo	do	departamento	com	o	maior	salário	médio.	
   8. Mostre	 os	 números	 de	 departamento,	 nomes	 e	 localizações	 dos	departamentos	onde	nenhum	representante	de	vendas	trabalha.
   9. Mostre	o	número	do	departamento,	o	nome	do	departamento	e	o	número	de	funcionários	que	trabalham em	cada	departamento	que:
-    1. Inclua	menos	de	3	funcionários.
-    2. Tenha	o	maior	número	de	funcionários.
-    3. Tenha	o	menor	número	de	funcionários.
+    - Inclua	menos	de	3	funcionários.
+    - Tenha	o	maior	número	de	funcionários.
+    - Tenha	o	menor	número	de	funcionários.
   10. Mostre	 o	 número	 do	 funcionário,	 sobrenome,	 salário,	 número	 do	 departamento	e	o	salário	médio	em	seu	departamento	para	todos	os	funcionários.
   11. Mostrar	todos	os	funcionários	que	foram	contratados	no	dia	da	semana	em	que	o	maior	número	de	funcionários	foi	contratado.	
   12. Crie	 uma	visão	geral	 do	aniversário	 com	 base	 na	 data	 de	 contratação	 dos	funcionários.	Classifique	os	aniversários	em	ordem	crescente.
@@ -234,6 +234,7 @@ empregos	dos	funcionários	que	trabalham	em	cada	departamento.
   Released in 2020 📕 License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   Dê alguma ⭐️ se este repositório ajudou você!
+  Made with ❤ by [Beans] 🚀.
 
 
 
