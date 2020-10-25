@@ -3,11 +3,11 @@
 
 ## Tabela de Conteúdo  
 
-- 1[Introdução](#Introdução)
-- 2[Como Usar](#Como)
-- 2[Script](#Script)
-- 3[Questões em Linguagem SQL - PostgresSQL](#Questões)
-- 4[Licença](#closed_book-license)
+1. [Introdução](#Introdução)
+2. [Como Usar](#Como usar)
+3. [Script](#Script)
+4. [Questões em Linguagem SQL - PostgresSQL](#Questões em Linguagem SQL - PostgresSQL)
+5. [Licença](#closed_book-license)
 
 
 ## Introdução
@@ -229,7 +229,7 @@ empregos	dos	funcionários	que	trabalham	em	cada	departamento.
   N. Mostrar	todos	os	funcionários	que	foram	contratados	no	dia	da	semana	em	que	o	maior	número	de	funcionários	foi	contratado.	
   O. Crie	 uma	visão	geral	 do	aniversário	 com	 base	 na	 data	 de	 contratação	 dos	funcionários.	Classifique	os	aniversários	em	ordem	crescente.
   
-  ## Licença
+ ## :closed_book: Licença
   
   Released in 2020 📕 License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
