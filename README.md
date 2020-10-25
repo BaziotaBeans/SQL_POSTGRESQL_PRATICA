@@ -3,25 +3,25 @@
 
 ## Tabela de Conteúdo  
 
-1. [Introdução](#Introdução)
+1. [Introdução](#introdução)
 2. [Como Usar](#construction_worker-como-usar)
 3. [Script](#computer-script)
 4. [Perguntas em SQL](#rocket-perguntas-em-sql)
-5. [Licença](#closed_book-license)
+5. [Licença](#closed_book-licença)
 
 
 ## Introdução
 
-Esse repositório foi criado com o intuito de praticar a lingaugem sql usando postgresql, com algumas consultas desde básicas até avançadas.
+Este repositório foi criado com o intuito de praticar a lingaugem sql usando postgresql, com algumas consultas desde básicas até avançadas.
 Foi escolhido o postgresql por ser Banco de dados relacional e Open Source, por ser poluar e conter muitas funcionalidades mas sinta-se a 
-vontade caso queira fazer com outro SGBD, basta acessar o script e mudar para a lingauem do sgbd equivalente...
+vontade caso queira fazer com outro SGBD, basta acessar o script e mudar para a lingauem do SGBD equivalente...
 Uma dica para aprender sql [Clique Aqui](https://www.w3schools.com/sql/default.asp)
 
 ## :construction_worker: Como usar
 
 O repositório traz Um slide onde foi retirado todo o script e um ficheiro sql que contem o script com as construções de todas as tabelas já
-relacionadas, para usar ela basta:
-1. Cria um Banco de dados, com qualquer nome
+relacionadas, os dados da tabela foram escritas em inglês, sinta.se a vontade caso queira alterá-las, para usar basta:
+1. Crie um Banco de dados, com qualquer nome
 2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
 3. Pronto agora já pode seguir as questões e criar as tuas consultas...
 
@@ -205,7 +205,7 @@ insert into job_history (employee_id, start_date, end_date, job_id, department_i
   5. Mostre	aos	funcionários	que	têm	um	nome	começando	com	J,	K,	L	ou	M.
   6. Mostre	todos	os	funcionários	e	indique	com	"Sim"	ou	"Não"	se	eles	recebem	uma	comissão.
 
-#### Grupo - II. Usando	a	Base	de	Dados	criada	em	I.	Responda	as	seguintes	questões	em	Linguagem	SQL	com	funções,	junções	e	funções	de	grupo.
+#### Grupo - II. Usando	a	Base	de	Dados	criada.	Responda	as	seguintes	questões	em	Linguagem	SQL	com	funções,	junções	e	funções	de	grupo.
   1. Mostre	os	nomes	dos	departamentos,	locais,	nomes,	cargos	e	salários	dos	funcionários	que	trabalham	no	local	1800.	
   2. Quantos	 funcionários	 têm	 um	 nome	 que	 termina	 com	 um	 "n"?	 Crie	 duas	soluções	possíveis.
   3. Mostre	 os	 nomes	 e	 locais	 de	 todos	 os	 departamentos	 e	 o	 número	 de	 funcionários	 que	 trabalham	 em	 cada	 departamento.	 
@@ -233,7 +233,8 @@ empregos	dos	funcionários	que	trabalham	em	cada	departamento.
   
   Released in 2020 📕 License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  Dê alguma ⭐️ se este repositório ajudou você!
+  Dê alguma ⭐️ se este repositório ajudou você e sinta-se a vontade para melhorar o repositório adicionando novas consultas ou até mesmo novas tabelas
+  Lembrando que a **Sabedoria não é saber muita coisa, mas compartilhar esse conhecimento de algum jeito.😍**
   Made with ❤ by [Beans] 🚀.
 
 
