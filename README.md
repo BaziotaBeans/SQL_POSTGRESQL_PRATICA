@@ -13,14 +13,14 @@
 ## Introdução
 
 Este repositório foi criado com o intuito de praticar a lingaugem sql usando postgresql, com algumas consultas desde básicas até avançadas.
-Foi escolhido o postgresql por ser Banco de dados relacional e Open Source, por ser poluar e conter muitas funcionalidades mas sinta-se a 
+Foi escolhido o postgresql por ser um Banco de dados relacional e Open Source, por ser poluar e conter muitas funcionalidades mas sinta-se a 
 vontade caso queira fazer com outro SGBD, basta acessar o script e mudar para a lingauem do SGBD equivalente...
-Uma dica para aprender sql [Clique Aqui](https://www.w3schools.com/sql/default.asp)
+Uma dica para aprender sql [Clique Aqui](https://www.w3schools.com/sql/default.asp).
 
 ## :construction_worker: Como usar
 
 O repositório traz Um slide onde foi retirado todo o script e um ficheiro sql que contem o script com as construções de todas as tabelas já
-relacionadas, os dados da tabela foram escritas em inglês, sinta.se a vontade caso queira alterá-las, para usar basta:
+relacionadas, os dados da tabela foram escritas em inglês, sinta-se a vontade caso queira alterá-las, para usar basta:
 1. Crie um Banco de dados, com qualquer nome
 2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
 3. Pronto agora já pode seguir as questões e criar as tuas consultas...
@@ -233,7 +233,7 @@ empregos	dos	funcionários	que	trabalham	em	cada	departamento.
   
   Released in 2020 📕 License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  Dê alguma ⭐️ se este repositório ajudou você e sinta-se a vontade para melhorar o repositório adicionando novas consultas ou até mesmo novas tabelas
+  Dê alguma ⭐️ se este repositório ajudou você, sinta-se a vontade para melhorar o repositório adicionando novas consultas ou até mesmo novas tabelas
   Lembrando que a **Sabedoria não é saber muita coisa, mas compartilhar esse conhecimento de algum jeito.😍**
   Made with ❤ by [Beans] 🚀.
 
