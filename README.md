@@ -6,7 +6,7 @@
 1. [Introdução](#Introdução)
 2. [Como Usar](#Como usar)
 3. [Script](#Script)
-4. [Questões em Linguagem SQL - PostgresSQL](#Questões em Linguagem SQL - PostgresSQL)
+4. [Questões em Linguagem SQL - PostgresSQL](#rocket)
 5. [Licença](#closed_book-license)
 
 
@@ -17,7 +17,7 @@ Foi escolhido o postgresql por ser Banco de dados relacional e Open Source, por 
 vontade caso queira fazer com outro SGBD, basta acessar o script e mudar para a lingauem do sgbd equivalente...
 Uma dica para aprender sql [Clique Aqui](https://www.w3schools.com/sql/default.asp)
 
-## Como usar
+## :construction_worker: Como usar
 
 O repositório traz Um slide onde foi retirado todo o script e um ficheiro sql que contem o script com as construções de todas as tabelas já
 relacionadas, para usar ela basta:
@@ -25,7 +25,7 @@ relacionadas, para usar ela basta:
 - 2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
 - 3. Pronto agora já pode seguir as questões e criar as tuas consultas...
 
-## Script
+## :computer: Script
 
 ```
 create table regions(
@@ -194,7 +194,7 @@ insert into job_history (employee_id, start_date, end_date, job_id, department_i
 (176, '1999-01-01', '1999-12-31', 'SA_MAN', 80),
 (200, '1994-07-01', '1998-12-31', 'AC_ACCOUNT', 90);
 ```
-## Questões em Linguagem SQL - PostgresSQL
+## :rocket: Questões em Linguagem SQL - PostgresSQL
 
 #### Grupo - I. Usando	a	Base	de	Dados	criada.	Responda	as	seguintes questões	em	Linguagem	SQL básico
 
