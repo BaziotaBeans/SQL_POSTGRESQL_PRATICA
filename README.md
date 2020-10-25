@@ -21,9 +21,9 @@ Uma dica para aprender sql [Clique Aqui](https://www.w3schools.com/sql/default.a
 
 O repositório traz Um slide onde foi retirado todo o script e um ficheiro sql que contem o script com as construções de todas as tabelas já
 relacionadas, para usar ela basta:
-    1. Cria um Banco de dados, com qualquer nome
-    2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
-    3. Pronto agora já pode seguir as questões e criar as tuas consultas...
+1. Cria um Banco de dados, com qualquer nome
+2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
+3. Pronto agora já pode seguir as questões e criar as tuas consultas...
 
 ## :computer: Script
 
@@ -198,12 +198,12 @@ insert into job_history (employee_id, start_date, end_date, job_id, department_i
 
 #### Grupo - I. Usando	a	Base	de	Dados	criada.	Responda	as	seguintes questões	em	Linguagem	SQL básico
 
-  A. Mostrar	 todos	 os	 dados	 dos	 funcionários	 que	 foram	 contratados	após	 o	ano	 de	1997.
-  B. Mostrar	 o	 sobrenome,	 emprego,	 salário	 e	 comissão	 dos	 funcionários	 que ganham	comissão.	Classifique	os	dados	pelo	salário	em	ordem	decrescente.	
-  C. Mostre	aos	funcionários	que	não	têm	comissão	com	um	aumento	de	10%	em	seu	salário	(arredondar	os	salários).
-  D. Mostre	 os	 sobrenomes	 de	 todos	 os	 funcionários,	juntamente	 com	 o	 número	 de	anos	e	o	número	de	meses	completos	que	foram	empregados.	
-  E. Mostre	aos	funcionários	que	têm	um	nome	começando	com	J,	K,	L	ou	M.
-  F. Mostre	todos	os	funcionários	e	indique	com	"Sim"	ou	"Não"	se	eles	recebem	uma	comissão.
+  1. Mostrar	 todos	 os	 dados	 dos	 funcionários	 que	 foram	 contratados	após	 o	ano	 de	1997.
+  2. Mostrar	 o	 sobrenome,	 emprego,	 salário	 e	 comissão	 dos	 funcionários	 que ganham	comissão.	Classifique	os	dados	pelo	salário	em	ordem	decrescente.	
+  3. Mostre	aos	funcionários	que	não	têm	comissão	com	um	aumento	de	10%	em	seu	salário	(arredondar	os	salários).
+  4. Mostre	 os	 sobrenomes	 de	 todos	 os	 funcionários,	juntamente	 com	 o	 número	 de	anos	e	o	número	de	meses	completos	que	foram	empregados.	
+  5. Mostre	aos	funcionários	que	têm	um	nome	começando	com	J,	K,	L	ou	M.
+  6. Mostre	todos	os	funcionários	e	indique	com	"Sim"	ou	"Não"	se	eles	recebem	uma	comissão.
 
 #### Grupo - II. Usando	a	Base	de	Dados	criada	em	I.	Responda	as	seguintes	questões	em	Linguagem	SQL	com	funções,	junções	e	funções	de	grupo.
   1. Mostre	os	nomes	dos	departamentos,	locais,	nomes,	cargos	e	salários	dos	funcionários	que	trabalham	no	local	1800.	
