@@ -13,7 +13,7 @@
 ## Introdução
 
 Este repositório foi criado com o intuito de praticar a lingaugem sql usando postgresql, com algumas consultas desde básicas até avançadas.
-Foi escolhido o postgresql por ser um Banco de dados relacional e Open Source, por ser poluar e conter muitas funcionalidades mas sinta-se a 
+Foi escolhido o postgresql por ser um Banco de dados relacional e Open Source, por ser popular e conter muitas funcionalidades, sinta-se a 
 vontade caso queira fazer com outro SGBD, basta acessar o script e mudar para a lingauem do SGBD equivalente...
 Uma dica para aprender sql [Clique Aqui](https://www.w3schools.com/sql/default.asp).
 
