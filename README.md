@@ -23,7 +23,7 @@ O repositório traz Um slide onde foi retirado todo o script e um ficheiro sql q
 relacionadas, os dados da tabela foram escritas em inglês, sinta-se a vontade caso queira alterá-las, para usar basta:
 1. Crie um Banco de dados, com qualquer nome
 2. Acesse o ficheiro script.sql ou o script que está no readme, Copie todo script e cole para gerar as tuas tabelas
-3. Pronto agora já pode seguir as questões e criar as tuas consultas...
+3. Pronto agora já podes seguir as questões e criar as tuas consultas...
 
 ## :computer: Script
 
